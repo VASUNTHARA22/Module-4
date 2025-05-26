@@ -1,4 +1,4 @@
-![441153634-b69f836d-ca13-4e49-b220-5d459b4725ff](https://github.com/user-attachments/assets/febd0ff2-5b8e-4654-8b21-dc0d2ae4e624)# Exception Handling in Python: Avoiding Index Errors
+# Exception Handling in Python: Avoiding Index Errors
 
 ## 🎯 Aim
 To write a Python program that handles an **IndexError** when trying to access an element beyond the available range of a list.
